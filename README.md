@@ -183,8 +183,8 @@ Leverage historical attendance trends for better staffing and operational planni
 
 ## 👨‍💻 Author
 
-Pavan Kalyan Panga.
+Pavani Panga.
 
 GitHub:
-https://github.com/pangapavankalyan95-del
+https://github.com/pavani-11012005
 
